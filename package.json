@@ -1,0 +1,22 @@
+{
+  "name": "es6demo",
+  "version": "1.0.0",
+  "description": "es 6 demo and practice",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sagarrokade404/es6Demo.git"
+  },
+  "keywords": [
+    "es6"
+  ],
+  "author": "sagar rokade",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sagarrokade404/es6Demo/issues"
+  },
+  "homepage": "https://github.com/sagarrokade404/es6Demo#readme"
+}
